@@ -1,0 +1,31 @@
+
+[2023-10-16 18:54:22,352] ERROR Отправить testlog в элемент Login form
+NoneType: None
+[2023-10-16 18:54:22,467] ERROR Отправить testpass в элемент Password form
+NoneType: None
+[2023-10-16 18:54:25,808] ERROR Отправить Smol123 в элемент Login form
+NoneType: None
+[2023-10-16 18:54:25,808] ERROR Отправить Smol123 в элемент Login form
+NoneType: None
+[2023-10-16 18:54:25,915] ERROR Отправить f0976457a2 в элемент Password form
+NoneType: None
+[2023-10-16 18:54:25,915] ERROR Отправить f0976457a2 в элемент Password form
+NoneType: None
+[2023-10-16 18:54:28,304] ERROR Отправить Hello в элемент title form
+NoneType: None
+[2023-10-16 18:54:28,304] ERROR Отправить Hello в элемент title form
+NoneType: None
+[2023-10-16 18:54:28,304] ERROR Отправить Hello в элемент title form
+NoneType: None
+[2023-10-16 18:54:28,384] ERROR Отправить error в элемент description form
+NoneType: None
+[2023-10-16 18:54:28,384] ERROR Отправить error в элемент description form
+NoneType: None
+[2023-10-16 18:54:28,384] ERROR Отправить error в элемент description form
+NoneType: None
+[2023-10-16 18:54:28,489] ERROR Отправить Bye-Bye в элемент post content form
+NoneType: None
+[2023-10-16 18:54:28,489] ERROR Отправить Bye-Bye в элемент post content form
+NoneType: None
+[2023-10-16 18:54:28,489] ERROR Отправить Bye-Bye в элемент post content form
+NoneType: None
